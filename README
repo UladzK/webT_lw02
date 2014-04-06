@@ -1,0 +1,7 @@
+Welcome to collection builder.
+Builds collection of books or magazines.
+
+Provides the following genres for books: Dystopia, Fantasy, Utopia, 
+Adventure. To add new genre -> look content.Genre enumeration
+
+Made as WebT laboratory work #2
